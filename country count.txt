@@ -1,0 +1,45 @@
+Afghanistan: 
+{'nytimes.com': 6, 'time.com': 1, 'bloomberg.com': 2, 'usatoday.com': 1, 'npr.org': 2, 'pbs.org': 1, 'freedomhouse.org': 1, 'state.gov': 1, 'usaid.gov': 3, 'cia.gov': 2, 'justice.gov': 1, 'loc.gov': 1, 'rferl.org': 2}
+
+Bolivia1:
+
+Bolivia2:
+
+Cuba:
+
+China:
+
+*Canada:
+
+*Germany:
+
+Iran:
+
+Iraq:
+
+Nicaragua:
+
+Venezuela:
+
+North Korea: 
+
+Syria:
+
+*Great Britain:
+
+*Japan:
+
+*France:
+
+*Italy:
+
+*Saudi Arabia:
+
+*India: 
+
+*South Africa: 
+
+*Mexico:
+
+*United States: 
+{'time.com': 1, 'foreignpolicy.com': 1, 'freedomhouse.org': 1, 'cbo.gov': 3, 'hawaii.gov': 3}
